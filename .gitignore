@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.txt
+chat_bsec
+*.zip
+*.ipynb
+project/__pycache__/
